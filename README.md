@@ -11,6 +11,14 @@ Neste projeto usamos as seguintes tecnologias:
 - JAVA
 - SPRINGBOOT
 - Maven
+- Spring-Data-JPA / Hibernate
+- Swagger
+- Flyway
+- JWT - Json Web Token
+- Postgres
+- H2
+- Eclipse / Sprint Tool Suite
+- DBeaver
 
 # Referencias
 
